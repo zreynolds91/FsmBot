@@ -1,0 +1,19 @@
+{
+  "name": "fsm_bot",
+  "version": "1.0.0",
+  "description": "flying spaghetti monster bot for discord",
+  "main": "pasta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zreynolds91/FsmBot.git"
+  },
+  "author": "zreynolds91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zreynolds91/FsmBot/issues"
+  },
+  "homepage": "https://github.com/zreynolds91/FsmBot#readme"
+}
